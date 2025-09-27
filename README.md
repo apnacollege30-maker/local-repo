@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap Logo" width="120"/>
-</p>
 
 # 👋 Hi, I'm Prashanth P
 
