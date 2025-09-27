@@ -32,10 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthp&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthp&layout=compact&theme=tokyonight)
 
----
 
 ⭐️ *I'm open to learning, collaboration, and contributing to open-source projects!*
